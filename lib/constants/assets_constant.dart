@@ -7,4 +7,7 @@ class Assets {
 
   static String zoom1Icon = '$iconPath/zoom1.png';
   static String zoom2Icon = '$iconPath/zoom2.png';
+
+  static String currentLocationIcon = '$iconPath/current_location_marker.png';
+  static String newPinMarkerIcon = '$iconPath/new_pin_marker.png';
 }
